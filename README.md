@@ -1,2 +1,2 @@
 # git-workshop
-git workshop repository
+This repository has been created for demo purposes
